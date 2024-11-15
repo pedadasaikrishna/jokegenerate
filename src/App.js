@@ -1,7 +1,7 @@
-import Joke from "./Joke";
+import Qrgenerator from "./Qrgenerator";
 function App() {
   return (
-    <Joke/>
+    <Qrgenerator/>
   );
 }
 
